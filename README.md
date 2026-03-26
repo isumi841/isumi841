@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isumi Kumarasinghe</h1>
-<h3 align="center">A passionate IT Undergraduate & full stack developer from Sri Lanka</h3>
+
 
 <p align="left"> <a href="https://twitter.com/isumikuma" target="blank"><img src="https://img.shields.io/twitter/follow/isumikuma?logo=twitter&style=for-the-badge" alt="isumikuma" /></a> </p>
 
