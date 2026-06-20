@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 BSc (Hons) Information Technology Undergraduate at SLIIT
 
@@ -32,10 +32,10 @@
 
 🌱 Currently Learning:
 
-* Spring Boot
-* React.js
-* REST API Development
-* Software Engineering Best Practices
+- Spring Boot
+- React.js
+- REST API Development
+- Software Engineering Best Practices
 
 🤝 Looking to collaborate on innovative software projects
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/isumi-kumarasinghe/" target="_blank">
@@ -57,7 +57,7 @@
 
 ---
 
-## 🛠 Languages & Tools
+# 🛠 Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,java,kotlin,mysql,git,github,vscode,androidstudio,figma,postman" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
 
@@ -93,21 +93,21 @@
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-| Project                                 | Technologies                    |
-| --------------------------------------- | ------------------------------- |
-| 🎄 Christmas Blessing Creator           | React.js, JavaScript, HTML, CSS |
-| 🛡️ Life Care Insurance System          | HTML, CSS, JavaScript, SQL      |
-| 🎒 Pack Pal Smart Bag Selling System    | MERN Stack, Postman             |
-| 🏨 Crown Crest Hotel Reservation System | Java, JSP, MySQL                |
-| ✅ ToDoLavender Mobile App               | Java, Android Studio, SQLite    |
-| 📚 Online Book Reading App              | Kotlin, Android Studio          |
-| 🎨 Book Wave UI/UX Design               | Figma                           |
+| Project | Technologies |
+|----------|-------------|
+| 🎄 Christmas Blessing Creator | React.js, JavaScript, HTML, CSS |
+| 🛡️ Life Care Insurance System | HTML, CSS, JavaScript, SQL |
+| 🎒 Pack Pal Smart Bag Selling System | MERN Stack, Postman |
+| 🏨 Crown Crest Hotel Reservation System | Java, JSP, MySQL |
+| ✅ ToDoLavender Mobile App | Java, Android Studio, SQLite |
+| 📚 Online Book Reading App | Kotlin, Android Studio |
+| 🎨 Book Wave UI/UX Design | Figma |
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=isumi841&show_icons=true&theme=tokyonight" />
@@ -116,7 +116,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=isumi841&theme=tokyonight" />
@@ -124,15 +124,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=isumi841&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=isumi841&theme=tokyo-night" />
@@ -140,7 +132,7 @@
 
 ---
 
-## ✨ Fun Fact
+# ✨ Fun Fact
 
 💡 I enjoy building clean UI designs, responsive web applications, and learning modern technologies to improve my development skills every day.
 
