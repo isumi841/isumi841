@@ -1,118 +1,151 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:36BCF7,100:6A5ACD&text=ISUMI%20KUMARASINGHE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SLIIT%20Undergraduate%20|%20Software%20Developer%20|%20IT%20Support&descAlignY=60"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Isumi Kumarasinghe</h1>
 
-<h3 align="center">
-💫 Aspiring Full-Stack Developer | Web & Mobile Application Developer
-</h3>
+<h3 align="center">SLIIT Undergraduate | IT Support | Software Developer</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=isumi841&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Application+Developer;Mobile+Application+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=isumi841&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Spring%20Boot-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I’m passionate about building modern, user-friendly, and impactful digital solutions through web and mobile application development. I enjoy working with technologies like Java, Spring Boot, React, JavaScript, and Android development while continuously improving my skills in full-stack engineering.
+🎓 BSc (Hons) Information Technology Undergraduate at SLIIT
 
-- 🌱 Currently learning **Spring Boot & React**
-- 💻 Interested in **Web & Mobile Application Development**
-- 🤝 Looking to collaborate on **innovative development projects**
-- ⚡ Passionate about creating **real-world impactful applications**
-- 📫 Reach me at: **isumikumarasinghe4@gmail.com**
+💻 Passionate about building modern, responsive, and user-friendly software solutions
+
+📱 Interested in Web Development, Mobile Application Development, and UI/UX Design
+
+🌱 Currently Learning:
+
+* Spring Boot
+* React.js
+* REST API Development
+* Software Engineering Best Practices
+
+🤝 Looking to collaborate on innovative software projects
+
+📫 Reach Me: **[isumikumarasinghe4@gmail.com](mailto:isumikumarasinghe4@gmail.com)**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/isumi-kumarasinghe/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://github.com/isumi841" target="blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="YOUR_INSTAGRAM_LINK" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="YOUR_FACEBOOK_LINK" target="blank">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://github.com/isumi841" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 </p>
 
 ---
 
-# 🛠️ Languages and Tools
+## 🛠 Languages & Tools
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,bootstrap,tailwind,mysql,mongodb,firebase,git,github,vscode,androidstudio,figma" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,java,kotlin,mysql,git,github,vscode,androidstudio,figma,postman" />
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge)
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-Intermediate-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Intermediate-6DB33F?style=for-the-badge)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Advanced-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-Advanced-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Advanced-181717?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-Advanced-007ACC?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=for-the-badge)
 
 ---
 
-# 📊 GitHub Stats
+## 📌 Featured Projects
+
+| Project                                 | Technologies                    |
+| --------------------------------------- | ------------------------------- |
+| 🎄 Christmas Blessing Creator           | React.js, JavaScript, HTML, CSS |
+| 🛡️ Life Care Insurance System          | HTML, CSS, JavaScript, SQL      |
+| 🎒 Pack Pal Smart Bag Selling System    | MERN Stack, Postman             |
+| 🏨 Crown Crest Hotel Reservation System | Java, JSP, MySQL                |
+| ✅ ToDoLavender Mobile App               | Java, Android Studio, SQLite    |
+| 📚 Online Book Reading App              | Kotlin, Android Studio          |
+| 🎨 Book Wave UI/UX Design               | Figma                           |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isumi841&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumi841&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isumi841&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumi841&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isumi841&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isumi841&theme=tokyonight" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=isumi841&theme=tokyonight&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=isumi841&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
 
-# ✨ Fun Fact
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isumi841&theme=tokyo-night" />
+</p>
+
+---
+
+## ✨ Fun Fact
 
 💡 I enjoy building clean UI designs, responsive web applications, and learning modern technologies to improve my development skills every day.
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:6A5ACD&section=footer"/>
+</p>
