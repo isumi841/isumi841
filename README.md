@@ -132,7 +132,7 @@
 
 # ✨ Fun Fact
 
-💡 I enjoy building clean UI designs, responsive web applications, and learning modern technologies to improve my development skills every day.
+💡 I enjoy building clean UI designs, responsive web applications, and learning modern technologies to improve my development skills .
 
 ---
 
